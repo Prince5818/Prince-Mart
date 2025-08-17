@@ -46,9 +46,6 @@ nav{
 
 .nav-links a:hover {
     color:#e74c3c;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #e74c3c;
-    border-radius: 25px;
 }
 /* Hero Section */
 .hero-section{
@@ -252,3 +249,4 @@ nav{
         grid-template-columns: 40% 40%;
     }
 }
+
